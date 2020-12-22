@@ -1,0 +1,22 @@
+- __3. Smart\-Portfolio\-Optimization__
+   - [Untitled.ipynb](Untitled.ipynb)
+   - [Untitled1.ipynb](Untitled1.ipynb)
+   - __\_\_pycache\_\___
+     - [helper.cpython\-37.pyc](__pycache__/helper.cpython-37.pyc)
+     - [project\_helper.cpython\-37.pyc](__pycache__/project_helper.cpython-37.pyc)
+   - __graphs__
+     - [CloseReturns.html](graphs/CloseReturns.html)
+     - [CovarianceReturnsCorrelationMatrix.html](graphs/CovarianceReturnsCorrelationMatrix.html)
+     - [ETFReturns.html](graphs/ETFReturns.html)
+     - [ETFWeights.html](graphs/ETFWeights.html)
+     - [IndexReturns.html](graphs/IndexReturns.html)
+     - [IndexWeights.html](graphs/IndexWeights.html)
+   - [helper.py](helper.py)
+   - [list.md](list.md)
+   - [project\_3\_starter\-zh.ipynb](project_3_starter-zh.ipynb)
+   - [project\_3\_starter.ipynb](project_3_starter.ipynb)
+   - [project\_helper.py](project_helper.py)
+   - [project\_tests.py](project_tests.py)
+   - [requirements.txt](requirements.txt)
+   - [tests.py](tests.py)
+
